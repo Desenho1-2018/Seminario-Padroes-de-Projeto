@@ -1,5 +1,5 @@
 
-public class Escudo {
+public final class Escudo {
 	private static Escudo instancia_escudo;
 	private int defesa = 10;
 	private float durabilidade = 50;

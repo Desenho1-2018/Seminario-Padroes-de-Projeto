@@ -1,5 +1,5 @@
 
-public class Espada {
+public final class Espada {
 	private static Espada instancia_espada;
 	private int dano = 100;
 	private float durabilidade = 100;

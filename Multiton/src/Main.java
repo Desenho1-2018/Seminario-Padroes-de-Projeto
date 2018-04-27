@@ -20,7 +20,7 @@ public class Main {
 		System.out.println("Nome : " + cavaleiro1.retornaEscudo().retornaNome());
 		System.out.println("Defesa : " + cavaleiro1.retornaEscudo().retornaDefesa());
 		System.out.println("Durabilidade : " + cavaleiro1.retornaEscudo().retornaDurabilidade());
-		System.out.println("Hash da arma: " + cavaleiro1.retornaEscudo().hashCode() + "\n");
+		System.out.println("Hash do escudo: " + cavaleiro1.retornaEscudo().hashCode() + "\n");
 		System.out.println("Cavaleiro " + cavaleiro2.retornaNome() + " de level " + cavaleiro2.retornaLevel());
 		System.out.println("Hash do cavaleiro: " + cavaleiro2.hashCode());
 		System.out.println("A arma do cavaleiro " + cavaleiro2.retornaNome() + " eh a " + cavaleiro2.retornaArma().retornaNome());
@@ -34,7 +34,7 @@ public class Main {
 		System.out.println("Nome : " + cavaleiro2.retornaEscudo().retornaNome());
 		System.out.println("Defesa : " + cavaleiro2.retornaEscudo().retornaDefesa());
 		System.out.println("Durabilidade : " + cavaleiro2.retornaEscudo().retornaDurabilidade());
-		System.out.println("Hash da arma: " + cavaleiro2.retornaEscudo().hashCode() + "\n");
+		System.out.println("Hash do escudo: " + cavaleiro2.retornaEscudo().hashCode() + "\n");
 		System.out.println("=================================================================================\n");
 		
 	}
